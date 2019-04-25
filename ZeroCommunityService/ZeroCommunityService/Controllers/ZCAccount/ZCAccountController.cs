@@ -1,4 +1,5 @@
 ﻿using Base.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebBase.ControllerInfo;
 using static Base.MainEnum.APIEnum;
@@ -17,6 +18,7 @@ namespace ZeroCommunityService.Controllers.ZCAccount
         /// 登录
         /// </summary>
         /// <returns></returns>
+        [AllowAnonymous]
         [HttpGet]
         public Result Login()
         {
