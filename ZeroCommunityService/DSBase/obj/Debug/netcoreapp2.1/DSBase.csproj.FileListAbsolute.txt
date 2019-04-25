@@ -1,0 +1,15 @@
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\NLog.config
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\DSBase.deps.json
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\DSBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\DSBase.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\Base.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\Base.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.csprojAssemblyReference.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.csproj.CoreCompileInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.AssemblyInfoInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.AssemblyInfo.cs
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.csproj.CopyComplete
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\obj\Debug\netcoreapp2.1\DSBase.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\DSBase\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml

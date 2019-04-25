@@ -1,0 +1,12 @@
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\bin\Debug\netcoreapp2.1\InterfaceBase.deps.json
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\bin\Debug\netcoreapp2.1\InterfaceBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\bin\Debug\netcoreapp2.1\InterfaceBase.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\bin\Debug\netcoreapp2.1\Model.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\bin\Debug\netcoreapp2.1\Model.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.csprojAssemblyReference.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.csproj.CoreCompileInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.AssemblyInfoInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.AssemblyInfo.cs
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.csproj.CopyComplete
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\InterfaceBase\obj\Debug\netcoreapp2.1\InterfaceBase.pdb

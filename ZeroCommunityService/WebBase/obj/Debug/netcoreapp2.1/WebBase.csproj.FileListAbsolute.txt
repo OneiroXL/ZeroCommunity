@@ -1,0 +1,15 @@
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\WebBase.deps.json
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\WebBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\WebBase.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.csproj.CoreCompileInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.AssemblyInfoInputs.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.AssemblyInfo.cs
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\WebBase.runtimeconfig.json
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\WebBase.runtimeconfig.dev.json
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.csprojAssemblyReference.cache
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\NLog.config
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\Base.dll
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\bin\Debug\netcoreapp2.1\Base.pdb
+G:\Work\C#\Project\Web\Core\ZeroCommunityService\WebBase\obj\Debug\netcoreapp2.1\WebBase.csproj.CopyComplete
