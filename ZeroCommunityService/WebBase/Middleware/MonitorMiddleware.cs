@@ -3,6 +3,7 @@ using Base.PublicTools.Base;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static Base.MainEnum.RedisEnum;
@@ -18,13 +19,11 @@ namespace WebBase.Middleware
         }
         public async Task Invoke(HttpContext context)
         {
-            string IP = RequestTool.GetIpAddress();
-            IP = "127.0.0.1";
+            string IP = RequestTool.GetIpAddress(context);
             if (!string.IsNullOrEmpty(IP))
             {
                 int count = RedisTool.Get<int>(RedisKeyEnum.MonitorIP,IP);
-
-                if (count == 0 || count <= 50)
+                if (count == 0 || count <= 500)
                 {
                     RedisTool.Set<int>(RedisKeyEnum.MonitorIP, IP, ++count, new TimeSpan(0, 10, 0));
                 }

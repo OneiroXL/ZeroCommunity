@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,18 +12,17 @@ namespace Base.PublicTools
         /// 获取IP地址
         /// </summary>
         /// <returns></returns>
-        public static string GetIpAddress()
+        public static string GetIpAddress(HttpContext context)
         {
             string result = String.Empty;
-            //result = HttpContext.Current.Request.ServerVariables["HTTP_CDN_SRC_IP"];
-            //if (string.IsNullOrEmpty(result))
-            //    result = HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"];
 
-            //if (string.IsNullOrEmpty(result))
-            //    result = HttpContext.Current.Request.UserHostAddress;
+            string IP = context.Connection.RemoteIpAddress.ToString();
+            if (!string.IsNullOrEmpty(IP))
+            {
+                string[] ips = IP.Split(':');
+                result = ips[ips.Length - 1];
+            }
 
-            //if (string.IsNullOrEmpty(result))
-            //    return "127.0.0.1";
 
             return result;
         }
